@@ -8,7 +8,7 @@ O **Finans** é uma landing page institucional para um serviço financeiro fict�
 
 ## 📸 Preview
 
-![Finans Preview] - URL ->
+![Finans Preview] - URL -> <a href="https://maicondante.github.io/Projeto_Finans/">
 
 ---
 
